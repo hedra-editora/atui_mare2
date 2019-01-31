@@ -1,4 +1,4 @@
-\documentclass[compontinhos,showtrims,12pt,conselho,spreadimages]{memoir}
+\documentclass[semcabeco,compontinhos,showtrims,12pt,conselho,spreadimages]{memoir}
 
 \usepackage[largepost]{hedraoptions} %% << %%%%%%%%%%%%%%%%
 \usepackage[baruch]{hedrastyles}
@@ -17,9 +17,7 @@
 
 \newcommand{\forceindent}{\leavevmode{\parindent=1,4em\indent}}
 
-%--------------------------------------------ALTERAR DISTÃNCIA ENTRE TÍTULO DO SUMÁRIO E CAPÍTULOS
-\addtocontents{toc}{\vskip-15pt}
-%--------------------------------------------
+
 \usepackage{afterpage}
 
 \newcommand\blankpage{%
@@ -28,17 +26,9 @@
     \addtocounter{page}{0}%
     \newpage}
 
-\usepackage{imakeidx} 
-\makeindex[program=xindy, options=-C utf8 -L portuguese]
-\newcommand\gobbleone[1]{}
-\newcommand*{\seeonly}[2]{\ (\emph{\seename} #1)}
-\newcommand*{\also}[2]{\emph{cf.} #1}
-\newcommand{\Also}[2]{\emph{See also} #1}
-\renewcommand\indexname{Índice onomástico}
-\makeindex[intoc]
 
-\setcounter{tocdepth}{1}
-\setcounter{secnumdepth}{-2} 
+%\setcounter{tocdepth}{1}
+%\setcounter{secnumdepth}{-2} 
 %\linespread{1.08}
 \usepackage{commands}
 
