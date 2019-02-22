@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  21 FEB 2019 13:32
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  22 FEB 2019 16:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1624,19 +1624,14 @@ Underfull \hbox (badness 2119) in paragraph at lines 603--611
 []\TU/LinuxLibertineO(0)/m/n/12 Era desesperador. Tudo continuava exatamente
  []
 
-[24] [25] [26] [27]
-Underfull \hbox (badness 1270) in paragraph at lines 706--720
-[]\TU/LinuxLibertineO(0)/m/n/12 Curiosamente sempre sonhava com o mesmo lu-
- []
-
-[28] [29] [30] [31] [32] [33] [34] [35] [36]
-Underfull \hbox (badness 1337) in paragraph at lines 1044--1047
+[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36]
+Underfull \hbox (badness 1337) in paragraph at lines 1045--1048
 []\TU/LinuxLibertineO(0)/m/n/12 Sem perceber, sentiu saudades de coisas simples
 
  []
 
 [37] [38] [39]
-Underfull \hbox (badness 1990) in paragraph at lines 1136--1138
+Underfull \hbox (badness 1990) in paragraph at lines 1137--1139
 []\TU/LinuxLibertineO(0)/m/n/12 “Mas existem particularidades na cabeça do ser-
 
  []
@@ -1726,4 +1721,4 @@ Here is how much of TeX's memory you used:
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10427b,409s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (172 pages, 2654268 bytes).
+Output written on LIVRO.xdv (172 pages, 2652728 bytes).
