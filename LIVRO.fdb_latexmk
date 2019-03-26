@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1551988055 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1551988055
-  "LIVRO.xdv" 1551988055 2643908 f903d6ac0234aa351be2de4ea73b79e8 "xelatex"
+["xdvipdfmx"] 1551988645 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1551988646
+  "LIVRO.xdv" 1551988645 2643992 65ad067ff5011ed3ddb13b5d34588a31 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1551988053 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1551988055
+["xelatex"] 1551988643 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1551988646
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1522961914 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492700150 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -152,18 +152,18 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1510784347 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
-  "INPUTS.aux" 1551988055 1734 4f03dc03a747e39382ed096a999f2a53 ""
+  "INPUTS.aux" 1551988645 1734 4f03dc03a747e39382ed096a999f2a53 ""
   "INPUTS.tex" 1549652183 46 c64b21f5e371687749d50a4c41c1905c ""
-  "LIVRO.aux" 1551988055 521 54e829035dc561aeff762d2b3fddc346 ""
+  "LIVRO.aux" 1551988645 521 54e829035dc561aeff762d2b3fddc346 ""
   "LIVRO.tex" 1549652183 2570 c4df0498d54f086c29fffb29cf2e789f ""
-  "ORIGINAIS.tex" 1551976095 241492 871e2d78bdbc59ba50afe962a75f1030 ""
-  "PUBLICIDADE.aux" 1551988055 1739 28742d86e9b03598695ba1647e58a5f8 ""
+  "ORIGINAIS.tex" 1551988445 241505 b67a797ae07bdf4370b2d67cae6f9d08 ""
+  "PUBLICIDADE.aux" 1551988645 1739 28742d86e9b03598695ba1647e58a5f8 ""
   "fichatecnica.sty" 1549652183 2312 a7d15db4c16249fdf6157572514ac9d2 ""
   "fronthedra.tex" 1549652183 3885 80f76112bfde76b5909fd3ce3b0f0592 ""
-  "gitrevisioninfo.sty" 1551988053 35 99ec70aeab691d7e530a25727313d7cf ""
+  "gitrevisioninfo.sty" 1551988643 35 91205f7a90f0118c337236ad7105631d ""
   (generated)
-  "LIVRO.xdv"
-  "PUBLICIDADE.aux"
-  "LIVRO.aux"
   "LIVRO.log"
+  "LIVRO.xdv"
   "INPUTS.aux"
+  "LIVRO.aux"
+  "PUBLICIDADE.aux"
