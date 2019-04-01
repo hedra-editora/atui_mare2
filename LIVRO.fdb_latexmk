@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1554151113 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1554151113
-  "LIVRO.xdv" 1554151113 2709992 e517e050dcecf10d5c135a8a0d46dd96 "xelatex"
+["xdvipdfmx"] 1554154491 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1554154491
+  "LIVRO.xdv" 1554154491 2710748 3dbf0146b22e3c30f55b1d5aeb8ef2f4 "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1554151111 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1554151113
+["xelatex"] 1554154488 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1554154491
   "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1522961914 10259 0f270d3c8360926558f121be1f0e0e11 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492700150 0 d41d8cd98f00b204e9800998ecf8427e ""
@@ -152,18 +152,19 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1510784347 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
-  "INPUTS.aux" 1554151113 1870 ecd21f5da36cd3c0d60f4fb95823f6a8 ""
+  "INPUTS.aux" 1554154491 1870 ecd21f5da36cd3c0d60f4fb95823f6a8 ""
   "INPUTS.tex" 1549652183 46 c64b21f5e371687749d50a4c41c1905c ""
-  "LIVRO.aux" 1554151113 532 885aa298535b384285c14586dc297d29 ""
-  "LIVRO.tex" 1549652183 2570 c4df0498d54f086c29fffb29cf2e789f ""
+  "LIVRO.aux" 1554154491 532 885aa298535b384285c14586dc297d29 ""
+  "LIVRO.tex" 1554154429 2663 ff8055e97ab54f5d93f98d73cb56a6ce ""
   "ORIGINAIS.tex" 1554147872 247458 51f2f5e49a1a6c9de626f1e42b2feb0d ""
-  "PUBLICIDADE.aux" 1554151113 1740 93e241a40ee84745d0ee8518ac206f93 ""
+  "PUBLICIDADE.aux" 1554154491 1740 93e241a40ee84745d0ee8518ac206f93 ""
   "fichatecnica.sty" 1554151104 2361 42a32071b998bd8a035f52570351b51e ""
   "fronthedra.tex" 1554150917 3930 213f92a9fb7210cd74ef3c0936db7ad5 ""
-  "gitrevisioninfo.sty" 1554151107 35 2592ddfb0cd193db38c63d4e0a987252 ""
+  "gitrevisioninfo.sty" 1554154488 35 0457d7e9ab5cb0ebceb51536d45beea2 ""
+  "wave.png" 1554154443 9857 8a42a4689fe0c08823926647026bde4f ""
   (generated)
-  "PUBLICIDADE.aux"
   "INPUTS.aux"
+  "PUBLICIDADE.aux"
   "LIVRO.xdv"
   "LIVRO.aux"
   "LIVRO.log"

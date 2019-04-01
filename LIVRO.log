@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  1 APR 2019 17:38
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2018.1.16)  1 APR 2019 18:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1429,45 +1429,45 @@ Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 (./PUBLICIDADE.aux))
 \openout1 = `LIVRO.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 92.
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 92.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 94.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 94.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 94.
  (/usr/share/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for T3+cmr on input line 92.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 94.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 94.
 
 (/usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 92.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 92.
+LaTeX Font Info:    ... okay on input line 94.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 94.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 94.
 
 (/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 92.
+LaTeX Font Info:    ... okay on input line 94.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Info: Redefining \dots on input line 92.
-LaTeX Info: Redefining \up on input line 92.
-LaTeX Info: Redefining \microtypecontext on input line 92.
+LaTeX Info: Redefining \dots on input line 94.
+LaTeX Info: Redefining \up on input line 94.
+LaTeX Info: Redefining \microtypecontext on input line 94.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: No adjustment of tracking.
@@ -1484,67 +1484,67 @@ Package microtype Info: Loading generic protrusion settings for font family
 .................................................
 \symlegacymaths=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 92.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 92.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 92.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 92.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 92.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 92.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 92.
-LaTeX Font Info:    Redeclaring math accent \check on input line 92.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 92.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 92.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 92.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 92.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 92.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 94.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 94.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 94.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 94.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 94.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 94.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 94.
+LaTeX Font Info:    Redeclaring math accent \check on input line 94.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 94.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 94.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 94.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 94.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 94.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 92.
+(Font)              `operators' in the math version `normal' on input line 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/LinuxLibertineO(0)/m/n on input line
- 92.
+ 94.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 92.
+(Font)              `operators' in the math version `bold' on input line 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/m/n on input lin
-e 92.
+e 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/m/n
- on input line 92.
+ on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LinuxLibertineO(0)/m/it on input li
-ne 92.
+ne 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LinuxLibertineO(0)/bx/n on input li
-ne 92.
+ne 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 92.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 92.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 94.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  TU/LinuxLibertineO(0)/m/n --> TU/LinuxLibertineO(0)/bx/
-n on input line 92.
+n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> TU/LinuxLibertineO(0)/bx/it on input 
-line 92.
+line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 92.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 94.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 92.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 94.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 92.
+(lastpage)             ! on input line 94.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
@@ -1569,11 +1569,11 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 92.
+(Font)              <8> on input line 94.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 92.
+(Font)              <6> on input line 94.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 92.
+(Font)              <5> on input line 94.
 
 (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
@@ -1589,7 +1589,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O'.
 ]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 92.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 94.
 
 (/usr/share/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
@@ -1620,60 +1620,231 @@ Underfull \hbox (badness 2111) in paragraph at lines 37--38
 [9] [10]
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
- [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+ [11] [12] [13]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [14] [15] [16] [17] [18] [19] [20]
 Underfull \hbox (badness 5652) in paragraph at lines 446--448
 []\TU/LinuxLibertineO(0)/m/n/12 “Quando tentamos controlar tudo, perdemos a
  []
 
-[21] [22] [23] [24] [25]
+[21]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [22] [23] [24]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [25]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+
 Underfull \hbox (badness 2119) in paragraph at lines 622--630
 []\TU/LinuxLibertineO(0)/m/n/12 Era desesperador. Tudo continuava exatamente
  []
 
-[26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38]
+[26] [27] [28]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [29] [30] [31] [32] [33]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [34] [35] [36] [37] [38]
 Underfull \hbox (badness 1337) in paragraph at lines 1065--1068
 []\TU/LinuxLibertineO(0)/m/n/12 Sem perceber, sentiu saudades de coisas simples
 
  []
 
-[39] [40] [41]
+[39]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [40]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [41]
 Underfull \hbox (badness 1990) in paragraph at lines 1157--1159
 []\TU/LinuxLibertineO(0)/m/n/12 “Mas existem particularidades na cabeça do ser-
 
  []
 
-[42] [43] [44] [45]
+[42]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [43] [44] [45]
 Underfull \hbox (badness 4416) in paragraph at lines 1304--1308
 []\TU/LinuxLibertineO(0)/m/n/12 Vagarosamente, examinou sua região lombar e,
  []
 
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
+[46] [47] [48] [49] [50]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [51] [52] [53]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [54] [55]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [56]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [57]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [58]
 Underfull \hbox (badness 3333) in paragraph at lines 1771--1772
 []\TU/LinuxLibertineO(0)/m/n/12 “Poder, pode, mas eles se sentem desconfiados
  []
 
-[59] [60] [61] [62] [63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73]
-[74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84] [85] [86] [87] [88]
-[89] [90] [91] [92] [93] [94] [95] [96] [97] [98] [99]
+[59] [60]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [61] [62] [63]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [64]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [65] [66] [67]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [68] [69] [70]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [71] [72]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [73]
+[74]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [75] [76]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [77] [78]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [79]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [80] [81]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [82]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [83] [84]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [85] [86]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [87]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [88]
+[89] [90]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [91] [92] [93] [94]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [95] [96] [97]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [98] [99]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+
 Underfull \hbox (badness 2073) in paragraph at lines 3286--3287
 []\TU/LinuxLibertineO(0)/m/n/12 “Finalmente, Fernanda. Por que você demorou
  []
 
-[100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111]
-[112] [113] [114] [115] [116] [117] [118] [119] [120] [121]
+[100]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [101] [102]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [103]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [104] [105]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [106] [107] [108]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [109] [110]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [111]
+[112] [113] [114]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [115] [116]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [117] [118] [119] [120] [121]
 Underfull \hbox (badness 1077) in paragraph at lines 4094--4098
 []\TU/LinuxLibertineO(0)/m/n/12 Jaci ensinou Theo a carnear o animal. Naquele
  []
 
-[122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133]
-[134] [135] [136] [137]
+[122] [123] [124] [125] [126]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [127] [128] [129] [130] [131] [132] [133]
+[134] [135]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [136] [137]
 Underfull \hbox (badness 1360) in paragraph at lines 4645--4649
 \TU/LinuxLibertineO(0)/m/n/12 mesmo que sempre precisássemos nos esconder dos
  []
 
-[138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149]
-[150] [151] [152] [153] [154] [155] [156] [157] [158] [159] [160] [161]
-[162] [163] [164] [165] [166] [167]
+[138] [139] [140]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [141] [142]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [143] [144]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [145]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [146] [147] [148] [149]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+
+[150] [151] [152] [153]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [154]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [155] [156] [157]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [158] [159] [160]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [161]
+[162] [163]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [164] [165]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+ [166] [167]
+File: wave.png Graphic file (type bmp)
+<wave.png>
+
 Underfull \hbox (badness 1067) in paragraph at lines 5750--5753
 []\TU/LinuxLibertineO(0)/m/n/12 Checou as mensagens algumas vezes, mesmo sa-
  []
@@ -1712,7 +1883,7 @@ Unknown feature `expansion=default' in font `Linux Libertine O Italic'.
 Unknown feature `protrusion=default' in font `Linux Libertine O'.
 Unknown feature `expansion=default' in font `Linux Libertine O'.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 96.
+(Font)              <10.95> on input line 98.
  [178
 
 
@@ -1722,12 +1893,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 26331 strings out of 493010
- 482810 string characters out of 6140134
+ 26336 strings out of 493010
+ 482858 string characters out of 6140134
  722282 words of memory out of 5000000
- 29839 multiletter control sequences out of 15000+600000
+ 29842 multiletter control sequences out of 15000+600000
  540140 words of font info for 87 fonts, out of 8000000 for 9000
  1372 hyphenation exceptions out of 8191
  49i,12n,85p,10427b,407s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on LIVRO.xdv (178 pages, 2709992 bytes).
+Output written on LIVRO.xdv (178 pages, 2710748 bytes).
