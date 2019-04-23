@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1554309980 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1554309980
-  "LIVRO.xdv" 1554309980 2711708 d82687ab9c2775121844c550b3640705 "xelatex"
+["xdvipdfmx"] 1555004558 "LIVRO.xdv" "LIVRO.pdf" "LIVRO" 1556028184
+  "LIVRO.xdv" 1555004558 2717128 a66aaa283a0aa92594cc42ee5ce96fbb "xelatex"
   (generated)
   "LIVRO.pdf"
-["xelatex"] 1554309978 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1554309980
-  "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1522961914 10259 0f270d3c8360926558f121be1f0e0e11 ""
+["xelatex"] 1555004555 "LIVRO.tex" "LIVRO.xdv" "LIVRO" 1556028184
+  "/home/editorial/texmf/tex/PUBLICIDADE.tex" 1555004495 10790 96c766e00e9b32ca67d3577868082db2 ""
   "/home/editorial/texmf/tex/aparatos.sty" 1492700150 909 136995c661119a9437b5451e77fe6935 ""
   "/home/editorial/texmf/tex/commands.sty" 1492700150 0 d41d8cd98f00b204e9800998ecf8427e ""
   "/home/editorial/texmf/tex/frontconselho.tex" 1522961914 226 584f41f462c1f25d6bb931b7ede1fa94 ""
@@ -155,19 +155,19 @@
   "/usr/share/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1510784347 205722 8027ed7ab2230086d647802c25f3ee42 ""
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1510784374 32585 d82bbcf7626b7842c87671687479e852 ""
   "/var/lib/texmf/web2c/xetex/xelatex.fmt" 1516130245 4066334 455a595bfa61ab60d620b040bfc81aa6 ""
-  "INPUTS.aux" 1554309979 1870 ecd21f5da36cd3c0d60f4fb95823f6a8 ""
+  "INPUTS.aux" 1555004558 1870 ecd21f5da36cd3c0d60f4fb95823f6a8 ""
   "INPUTS.tex" 1549652183 46 c64b21f5e371687749d50a4c41c1905c ""
-  "LIVRO.aux" 1554309980 439 639bb058074c50f26425703c42040d59 ""
+  "LIVRO.aux" 1555004558 439 639bb058074c50f26425703c42040d59 ""
   "LIVRO.tex" 1554154429 2663 ff8055e97ab54f5d93f98d73cb56a6ce ""
   "ORIGINAIS.tex" 1554309968 247561 d24a9194dc1ec32ca09946870cc359d3 ""
-  "PUBLICIDADE.aux" 1554309979 1740 93e241a40ee84745d0ee8518ac206f93 ""
+  "PUBLICIDADE.aux" 1555004558 1740 435cca96317401e75dc17415490f701b ""
   "fichatecnica.sty" 1554220819 2366 cbd9acf35eb76b976e803fb681f74116 ""
   "fronthedra.tex" 1554215843 3931 e7d56e6b61c87cb0d84e98ee7e1e8d9c ""
-  "gitrevisioninfo.sty" 1554309977 35 d33cc6cbb249c1b81e52dc7a4be753f2 ""
+  "gitrevisioninfo.sty" 1556028181 35 5b4189469718d4d75e04b378172f5529 ""
   "wave.png" 1554154443 9857 8a42a4689fe0c08823926647026bde4f ""
   (generated)
+  "LIVRO.xdv"
   "INPUTS.aux"
   "LIVRO.aux"
-  "LIVRO.xdv"
   "LIVRO.log"
   "PUBLICIDADE.aux"
