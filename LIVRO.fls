@@ -257,6 +257,7 @@ INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
 INPUT /usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+INPUT Mare_Paranã_lettering.png
 OUTPUT LIVRO.xdv
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
